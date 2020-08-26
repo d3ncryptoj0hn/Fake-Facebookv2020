@@ -1,24 +1,27 @@
 <img src="fblogo.png" width="900" >
+
 # Fake-Facebookv2020
-''
-## Facebook<img src="fbico.png" width="25" >
+
+## Facebook <img src="fbico.png" width="25" >
+
 ### Screenshot:
+
 <img src="fb2020.png" width="700" >
-''
+
 #### Facebook.exe for windows phishing app.
-''
+
 ##### Application for windows user.
 ##### avalable to install or execute.
 ##### recomend to install for permanent setup.
 ##### for one time use its fine to use the exe.
-''
+
 ##### Dont use for illegal purposes. any illegal
 ##### step you make is not my responsibility.
 ##### Stealing personal accounts is illegal.
 ##### I made this for Educational purposes only.
 ##### Ask for permission before using this on someone.
 ##### Happy Hacking!
-''
+
 ##### Only working on C:\ drive
 
 ==========================================================
