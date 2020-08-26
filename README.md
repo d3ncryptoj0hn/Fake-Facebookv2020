@@ -32,21 +32,25 @@
   Without icon
 
 ==========================================================
+#### Setting Up:
+
 #### if no installer:
-Move This on your system32 folder.
+###### Move This on your system32 folder.
 
-Set this with Administrator Access.
+###### Set this with Administrator Access.
 
-Create Short-cut or Add this to your pannel.
+###### Create Short-cut or Add this to your pannel.
 
-Double click to run it.
+###### Double click to run it.
 
-Run and for testing.
+###### Run and for testing.
 
 #### if with installer:
-install and use
-make sure to install it with administrator Access.
-if not it cant write data in the located folder
+###### install and use
+
+###### make sure to install it with administrator Access.
+
+###### if not it cant write data in the located folder
 
 ##### It will automaticaly create Facebook directory on Program Files (x86)
 ##### name: Facebook.
