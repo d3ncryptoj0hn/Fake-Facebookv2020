@@ -32,10 +32,10 @@
   Without icon
 
 ==========================================================
-
+#### if no installer:
 Move This on your system32 folder.
 
- Set this with Administrator Access.
+Set this with Administrator Access.
 
 Create Short-cut or Add this to your pannel.
 
@@ -43,11 +43,16 @@ Double click to run it.
 
 Run and for testing.
 
+#### if with installer:
+install and use
+make sure to install it with administrator Access.
+if not it cant write data in the located folder
+
 ##### It will automaticaly create Facebook directory on Program Files (x86)
 ##### name: Facebook.
 
 #### Run this as administrator. All data will be saved on
 
-#####  C:\Program Files (x86)\Facebook\Data\cache\*.txt
+#####  C:\Program Files (x86)\Facebook\Data\cache\mine.txt
   
 ==========================================================
